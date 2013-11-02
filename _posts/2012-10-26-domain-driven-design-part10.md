@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of Domain Driven Design - Refactoring Toward Deeper Insight
+title: Domain Driven Design - Refactoring Toward Deeper Insight
 ---
 
 Refactoring toward deeper insight is a multilevel process, it will be helpful to stop for a moment to see things togetherand try to get a different picture from the domain. Mainly, There are three aspects that you have to look at, first you need to live in the domain, it means that you have to live together with the domain to see the problems closer and often, so you can try different approachs to the same problems, which is what the second aspect say, you should keep looking at things in a different way and third, you will to be free to talk to a domain expert always needed. The classic refactoring scenario involves a developer or two sitting at the keyboard, recognizing that some code can be improved, and then changing it on the fly (with unit tests to verify their results, of course).

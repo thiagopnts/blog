@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of Domain Driven Design - The Life Cycle of a Domain Object
+title: Domain Driven Design - The Life Cycle of a Domain Object
 ---
 
 Every object has a life cycle. An object is born, it likely goes throgh various states, and it eventually dies.

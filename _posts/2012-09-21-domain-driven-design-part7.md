@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of Domain Driven Design - Supple Design
+title: Domain Driven Design - Supple Design
 ---
 
 To have a project accelerate as development proceeds, you need to have a design that is pleasure to work with, a supple design. Supple design is the complement to deep modeling, once you've dug out implicit concepts and made them explicit you have the raw material. A supple design reveals a deep underlying model that makes its potential clear. The client developer can flexibly use a minimal set of loosely coupled concepts to express a range of scenarios in the domain. Design elements fit together in a natural way with a result that is predictable, clearly characterized, and robust.

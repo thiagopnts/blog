@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of Domain Driven Design - Breakthrough
+title: Domain Driven Design - Breakthrough
 ---
 
 
