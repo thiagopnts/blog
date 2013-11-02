@@ -594,6 +594,9 @@ header.site-header nav ul li a:hover {
 .article header .intro {
   text-align: left;
 }
+.article p {
+  text-align: justify;
+}
 
 .archive {
   display: inline;
