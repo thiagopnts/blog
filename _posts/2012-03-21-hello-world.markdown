@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello world and The Passionate Programmer
+comments: true
 ---
 
 ## Hello world!

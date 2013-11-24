@@ -14,14 +14,10 @@ owner:
   github:         thiagopnts      
   instagram:      thiagopnts    
   disqus:         thiagopnts
-  # Plug in your disqus shortname!
-  
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Github
     url: https://github.com/thiagopnts
     external: true
