@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Putting the Domain Model to Work
+comments: true
 ---
 
 Today I started to read this book, it's about domain driven development, and it has a lot of good advices about development and how to build something useful in the best way possible.

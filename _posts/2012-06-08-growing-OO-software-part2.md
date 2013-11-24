@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing OO Software, Guided by Tests - Test-Driven Development with Objects
+comments: true
 ---
 
 ##A Web of Objects
