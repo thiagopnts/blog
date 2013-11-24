@@ -6,7 +6,7 @@ comments: true
 
 ## Hello world!
 
-Since one of my tasks in my internship at OfficeDrop is blog about some books I've been reading, I decided to start it in a new fresh blog, powered by [github pages](http://pages.github.com). There is some work to do here about the layout and stuff, since mine was ~stolen~ from [Zach Holman](https://github.com/holman), but I'll do it later, I'm kinda busy right now.
+Since one of my tasks in my work at OfficeDrop is blog about some books I've been reading, I decided to start it in a new fresh blog, powered by [github pages](http://pages.github.com). There is some work to do here about the layout and stuff, since mine was ~stolen~ from [Zach Holman](https://github.com/holman), but I'll do it later, I'm kinda busy right now.
 
 ## The Passionate Programmer
 
