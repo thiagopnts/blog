@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Domain Driven Design - Applying Analysis Patterns
+comments: true
 ---
 
 All terms and patterns described in this books requires a lot of experience, and you will keep getting better through time. After some time you will start to look at domain problems and see a familiar sort of responsability or a familiar web of relationships and you can see how this problem was solved before, what models were needed, and figure out the best approach. This looks like some kind of trial and error patterns where you can keep documenting and shareing this with your team for future use. As Martin Fowler says in his _Analysis Patterns: Reusable Object Models_:

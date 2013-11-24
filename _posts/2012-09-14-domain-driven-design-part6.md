@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Domain Driven Design - Making Implicit Concepts Explicit
+comments: true
 ---
 
 This chapter like the last one is tiny and teach us how important is to make implicit concepts of the domain in explicit fields/relations/etc in the model and design. This transformations of domain models happens when developers recognize a concept that has been hinted or present implicitly in the design, so you can represent it explicitly in the model with one or more objects or relationships. This looks like a breakthrough, but the difference here is that it happens in the early stages of domain design, when the breakthrough happens after a lot of refactoring.

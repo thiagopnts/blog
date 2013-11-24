@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Patterns of Enterprise Application Architecture - Organizing Domain Logic
+comments: true
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/511D6FdsbXL._AA160_.jpg" width="250" height="250" />

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Patterns of Enterprise Application Architecture - Layering
+comments: true
 ---
 
 For this week I was asked to start to read Patterns of Enterprise Application Architecture from [Martin Fowler](http://martinfowler.com), starting with the Introduction and the Chapter 1 - Layering. I've already had used this book a couple of times for reference but never had read like this, chapter after chapter.

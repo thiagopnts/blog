@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing OO Software, Guided by Tests - What is the point of TDD?
+comments: true
 ---
 
 ##What is the point of Test-Driven Development?

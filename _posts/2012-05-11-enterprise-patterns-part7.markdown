@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Patterns of Enterprise Application Architecture - Distribution Strategies
+comments: true
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/511D6FdsbXL._AA160_.jpg" width="250" height="250" />

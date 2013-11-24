@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing OO Software, Guided by Tests - Building on Third-Party Code
+comments: true
 ---
 
 Our software always ends relying in third party code, through things such as standard APIs, libraries and frameworks, so we must check that we are using this third-party code correctly, with it pushing back at our design, we must find the best balance between elegance and practical use of someone else's ideias.

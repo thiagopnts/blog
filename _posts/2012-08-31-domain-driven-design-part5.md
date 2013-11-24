@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Domain Driven Design - Breakthrough
+comments: true
 ---
 
 

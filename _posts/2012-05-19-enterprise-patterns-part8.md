@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Patterns of Enterprise Application Architecture - Putting It All Together
+comments: true
 ---
 
 

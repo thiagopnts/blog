@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing OO Software, Guided by Tests - Kick Starting the Test-Driven Cycle
+comments: true
 ---
 
 The entire TDD process was described in the other posts, with that we can assume we can grow the system by just slotting the tests for new features into an existing infrastructure, but what about the very first feature, before we have the infrastructure? As an acceptance test, it must run end-to-end to give us the feed back we need about the system's external interfaces, which means we have to implement a whole automated build and deploy environments for our test cycle and this is a lot of work to do before we can even see the first test fail. Even looking weird you had to automate the build and deploy process from a nonexistent system.

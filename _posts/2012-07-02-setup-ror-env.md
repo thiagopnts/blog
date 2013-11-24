@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting up a Ruby on Rails Development Environment on Ubuntu 12.04
+comments: true
 ---
 
 Yesterday I had to set up a linux machine twice to develop somethings with ruby and rails and in the first time I did it I got some issues with dependencies and stuff, so I decided to make this post to register the steps here :)

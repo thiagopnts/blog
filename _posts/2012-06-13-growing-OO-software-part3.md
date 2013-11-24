@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing OO Software, Guided by Tests - An Introduction to the Tools
+comments: true
 ---
 
 The book is about techniques to guide the development of OO software using tests, and it's not about specific technologies, but to demonstrate some techniques in action the book uses some technologies, such as JUnit 4, Hamcrest and jMock2 frameworks.
