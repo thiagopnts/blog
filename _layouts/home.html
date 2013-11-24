@@ -5,7 +5,7 @@
           <article class="archive-wrap">
               <ol class="post-list">
                  <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
-                  {% for post in site.posts %}
+                  {% for post in paginator.posts %}
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -18,5 +18,18 @@
           </article>
         </section>
     </div>
+    <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/blog/page/{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/blog/page/{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 
 {% include footer.html %}

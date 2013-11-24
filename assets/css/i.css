@@ -15,6 +15,9 @@ summary, time, mark, audio, video {
   vertical-align: baseline;
 }
 
+.pagination {
+  margin-left: 45%;
+}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;

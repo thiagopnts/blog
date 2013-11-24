@@ -1,14 +1,5 @@
 ---
 layout: home
-title: "Thiago's Page"
+title: "Recent Posts"
+feature: typewriter.jpg
 ---
-
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="/blog{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
