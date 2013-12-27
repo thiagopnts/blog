@@ -33,7 +33,6 @@ GEM
     rake (10.1.0)
     redcarpet (2.2.2)
     safe_yaml (0.7.1)
-    sass (3.2.12)
     syntax (1.0.0)
     yajl-ruby (1.1.0)
 
@@ -45,4 +44,3 @@ DEPENDENCIES
   jekyll
   jekyll-minibundle
   rake
-  sass

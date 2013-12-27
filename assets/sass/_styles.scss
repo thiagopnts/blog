@@ -10,10 +10,6 @@ body {
   height: 100%;
   overflow-x: hidden;
 }
-.pagination {
-  margin-left: 45%;
-}
-
 
 h1,h2,h3,h4,h5 {
     font-family: $serif;
@@ -28,8 +24,13 @@ a, a:visited, a:active {
     @include transit(all,0.25s,ease-in-out);
 }
 
-a:hover {
-    color: $accent;
+h1 a, h1 a:visited, h1 a:active {
+    color: $black;
+    @include transit(all,0.25s,ease-in-out);
+}
+
+h1 a:hover {
+    color: $grey-medium;
     @include transit(all,.25s, ease-in-out)
 }
 
@@ -136,10 +137,6 @@ input {
   font-family: "Icons";
   font-size: 14px;
   line-height: 20px; 
-}
-
-.bb {
-    border-bottom: 2px solid $link;
 }
 
 .pad-top {
@@ -381,37 +378,8 @@ header.site-header nav {
                     @include transit;
                 }
             }
-            
-            a:hover:before {
-                content:'...';
-                color: $grey-light;
-                font-family: $sans;
-                position: absolute;
-                margin-left: -70px;
-                font-size: 40px;
-                left: 0;
-                top: -20px;
-                text-align: center;
-                @include transit;
-            }
-            
-            a:before {
-                content:'“';
-                color: $grey-light;
-                position: absolute;
-                margin-left: -70px;
-                font-size: 60px;
-                z-index: 10;
-                top: -6px;
-                left: 0;
-                text-align: center;
-                @include transit;
-
-            }
-            
             h1 {
                 font-size: $fs3;
-                font-style: italic;
             }
         }
         
@@ -456,10 +424,6 @@ header.site-header nav {
             color: $grey-medium;
             margin-bottom: $lh/2;
         }
-    }
-    
-    h1 {
-        font-style: italic;
     }
     
     h1, h2, h3, h4, h5 {
