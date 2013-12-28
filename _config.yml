@@ -1,29 +1,31 @@
-title:            Thiago
-tagline:          random thoughts.
-description:      random thoughts.
+title:            Simple Man
+tagline:          A simple kind of theme.
+description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://thiagopnts.me/blog
-#paginate: 5
-#paginate_path: "page/:num"
+url: http://thiagopnts.me
 
 # Owner/author information
 owner:
   name:           Thiago Pontes
   avatar:         avatar.png
-  bio:            "It's all about code, coffee and beer."
+  bio:            "Code & Beer"
   email:          thiagopnts@gmail.com
-  twitter:        thiagopnts       
-  github:         thiagopnts      
-  instagram:      thiagopnts    
+  twitter:        thiagopnts
+  github:         thiagopnts       
+  instagram:      thiagopnts
   disqus:         thiagopnts
+  # Plug in your disqus shortname!
+  
 
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: About
+    url: /about
   - title: Github
-    url: https://github.com/thiagopnts
+    url: https://github.com/thiagopnts/simple-man
     external: true
-  - title: Thiago quem?
+  - title: Thiago Who?
     url: http://thiagopnts.me
     external: true
 
