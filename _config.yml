@@ -2,7 +2,7 @@ title:            Simple Man
 tagline:          A simple kind of theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://thiagopnts.me
+url: http://thiagopnts.me/blog
 
 # Owner/author information
 owner:
