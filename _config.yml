@@ -1,4 +1,4 @@
-title:            0xfff
+title:            "0xffffff"
 tagline:          random thoughts.
 description:      random thoughts.
 #Comment out url when working locally to resolve base urls correctly
@@ -29,7 +29,7 @@ links:
 timezone:    America/New_York
 future:      true
 pygments:    true
-markdown:    kramdown
+markdown:    redcarpet
 
 kramdown:
   auto_ids: true
