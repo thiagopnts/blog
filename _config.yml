@@ -2,7 +2,7 @@ title:            Thiago
 tagline:          random thoughts.
 description:      random thoughts.
 #Comment out url when working locally to resolve base urls correctly
-url: http://thiagopnts.me/blog
+url: http://thiago.me/blog
 
 # Owner/author information
 owner:
@@ -22,7 +22,7 @@ links:
     url: https://github.com/thiagopnts
     external: true
   - title: Thiago quem?
-    url: http://thiagopnts.me
+    url: http://thiago.me
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
